@@ -1,0 +1,31 @@
+{
+    "name": "PCB Panelizer",
+    "description": "Panelize PCB with V-Score and Mousebites",
+    "description_full": "A robust plugin to create a panel of boards with configurable array size, V-Scores, and frame. Supports V-Cut lines on F.Fab layer with automatic segmentation and VSCORE text labels.",
+    "identifier": "com.github.navadeep.pcb-panelizer",
+    "type": "plugin",
+    "author": {
+        "name": "Navadeep",
+        "contact": {
+            "web": "https://github.com/ngu25/panelizer_plugin"
+        }
+    },
+    "maintainer": {
+        "name": "Navadeep",
+        "contact": {
+            "web": "https://github.com/ngu25/panelizer_plugin"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/ngu25/panelizer_plugin",
+        "icon": "icon.png"
+    },
+    "versions": [
+        {
+            "version": "1.0.0",
+            "status": "stable",
+            "kicad_version": "9.0"
+        }
+    ]
+}
